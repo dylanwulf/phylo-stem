@@ -1,4 +1,8 @@
 #Taken from ctc library (http://svitsrv25.epfl.ch/R-doc/library/ctc/doc/ctc.pdf)
+
+
+
+
 hc2Newick <- function(hc, flat=TRUE) {
 
   dist <- 0
